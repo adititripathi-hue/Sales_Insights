@@ -1,6 +1,6 @@
 # Sales Insights Dashboard
 
-![Dashboard Screenshot] (Dashboard.png)
+![Dashboard Screenshot](Dashboard.png)
 
 
 
